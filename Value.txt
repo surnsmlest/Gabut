@@ -1,0 +1,3213 @@
+================================================================================
+HASIL ANALISIS RENPY FILES
+================================================================================
+
+🪙 MONEY VARIABLES:
+--------------------------------------------------
+Variable: kai_massage_points = 0
+  📁 File: x-s_events.rpy
+  📍 Line: 5979
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1440
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1517
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1532
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1547
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1605
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1666
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1689
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1707
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1754
+
+❤️ RELATIONSHIP VARIABLES:
+--------------------------------------------------
+Tidak ditemukan relationship variables
+
+📋 SEMUA VARIABLES:
+--------------------------------------------------
+Variable: sofy = NPC_character(name='sofy', intrigue=17, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=19, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+  📁 File: x-events.rpy
+  📍 Line: 21
+  🔧 Type: dollar
+  💬 Full: $ sofy = NPC_character(name='sofy', intrigue=17, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=19, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+
+Variable: prologue = True
+  📁 File: x-events.rpy
+  📍 Line: 149
+  🔧 Type: dollar
+  💬 Full: $ prologue = True
+
+Variable: prologue = False
+  📁 File: x-events.rpy
+  📍 Line: 151
+  🔧 Type: dollar
+  💬 Full: $ prologue = False
+
+Variable: jill = NPC_character(name='jill', intrigue=0, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=5, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+  📁 File: x-events.rpy
+  📍 Line: 154
+  🔧 Type: dollar
+  💬 Full: $ jill = NPC_character(name='jill', intrigue=0, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=5, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+
+Variable: sleep = True
+  📁 File: x-events.rpy
+  📍 Line: 643
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: iface = False
+  📁 File: x-events.rpy
+  📍 Line: 663
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: dylan_chat = PhoneChat("emma", "dylan")
+  📁 File: x-events.rpy
+  📍 Line: 665
+  🔧 Type: dollar
+  💬 Full: $ dylan_chat = PhoneChat("emma", "dylan")
+
+Variable: iface = True
+  📁 File: x-events.rpy
+  📍 Line: 711
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: sleep = True
+  📁 File: x-events.rpy
+  📍 Line: 716
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: iface = False
+  📁 File: x-events.rpy
+  📍 Line: 900
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: justin_chat = PhoneChat("emma", "justin")
+  📁 File: x-events.rpy
+  📍 Line: 901
+  🔧 Type: dollar
+  💬 Full: $ justin_chat = PhoneChat("emma", "justin")
+
+Variable: iface = True
+  📁 File: x-events.rpy
+  📍 Line: 1006
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: andrew = NPC_character(name='andrew', intrigue=0, love=0, fidelity=0, s_power=7, s_count_max=0, desire=0, s_approval=0, corruption=15, cuckold=0, free_relations=0, ill=0, viagra=0, love_fam=0, schedule={})
+  📁 File: x-events.rpy
+  📍 Line: 2372
+  🔧 Type: dollar
+  💬 Full: $ andrew = NPC_character(name='andrew', intrigue=0, love=0, fidelity=0, s_power=7, s_count_max=0, desire=0, s_approval=0, corruption=15, cuckold=0, free_relations=0, ill=0, viagra=0, love_fam=0, schedule={})
+
+Variable: temp = get_local("s_desire") + " " + str(9 - fcs.desire)
+  📁 File: x-events.rpy
+  📍 Line: 2567
+  🔧 Type: dollar
+  💬 Full: $ temp = get_local("s_desire") + " " + str(9 - fcs.desire)
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-events.rpy
+  📍 Line: 2902
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: sleep = True
+  📁 File: x-events.rpy
+  📍 Line: 3418
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: round = 1
+  📁 File: x-events.rpy
+  📍 Line: 3648
+  🔧 Type: dollar
+  💬 Full: $ round = 1
+
+Variable: rdice_data = {}
+  📁 File: x-options.rpy
+  📍 Line: 255
+  🔧 Type: default
+  💬 Full: default rdice_data = {}
+
+Variable: for_gallery = False
+  📁 File: x-options.rpy
+  📍 Line: 256
+  🔧 Type: default
+  💬 Full: default for_gallery = False
+
+Variable: iface = True
+  📁 File: x-options.rpy
+  📍 Line: 259
+  🔧 Type: default
+  💬 Full: default iface = True
+
+Variable: texting = 'main'
+  📁 File: x-options.rpy
+  📍 Line: 260
+  🔧 Type: default
+  💬 Full: default texting = 'main'
+
+Variable: prologue = True
+  📁 File: x-prologue.rpy
+  📍 Line: 23
+  🔧 Type: dollar
+  💬 Full: $ prologue = True
+
+Variable: iface = False
+  📁 File: x-prologue.rpy
+  📍 Line: 884
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 929
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: dylan_chat = PhoneChat("emma", "dylan")
+  📁 File: x-prologue.rpy
+  📍 Line: 992
+  🔧 Type: dollar
+  💬 Full: $ dylan_chat = PhoneChat("emma", "dylan")
+
+Variable: p_seen = False
+  📁 File: x-prologue.rpy
+  📍 Line: 1751
+  🔧 Type: dollar
+  💬 Full: $ p_seen = False
+
+Variable: iface = False
+  📁 File: x-prologue.rpy
+  📍 Line: 1765
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 1885
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 1918
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = False
+  📁 File: x-prologue.rpy
+  📍 Line: 2252
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 2341
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = False
+  📁 File: x-prologue.rpy
+  📍 Line: 2407
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 2507
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 2625
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 2683
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 2801
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 2831
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: blag_size1 = 28
+  📁 File: x-prologue.rpy
+  📍 Line: 3034
+  🔧 Type: dollar
+  💬 Full: $ blag_size1 = 28
+
+Variable: blag_size2 = 22
+  📁 File: x-prologue.rpy
+  📍 Line: 3035
+  🔧 Type: dollar
+  💬 Full: $ blag_size2 = 22
+
+Variable: blag_size3 = 22
+  📁 File: x-prologue.rpy
+  📍 Line: 3036
+  🔧 Type: dollar
+  💬 Full: $ blag_size3 = 22
+
+Variable: liliana = NPC_character(name='liliana', intrigue=2, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=1, cuckold=0, free_relations=0, ill=0, viagra=0, love_fam=1, schedule={})
+  📁 File: x-prologue.rpy
+  📍 Line: 3200
+  🔧 Type: dollar
+  💬 Full: $ liliana = NPC_character(name='liliana', intrigue=2, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=1, cuckold=0, free_relations=0, ill=0, viagra=0, love_fam=1, schedule={})
+
+Variable: nathan = NPC_character(name='nathan', intrigue=0, love=0, fidelity=0, s_power=10, s_count_max=5, desire=0, s_approval=0, corruption=20, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+  📁 File: x-prologue.rpy
+  📍 Line: 3274
+  🔧 Type: dollar
+  💬 Full: $ nathan = NPC_character(name='nathan', intrigue=0, love=0, fidelity=0, s_power=10, s_count_max=5, desire=0, s_approval=0, corruption=20, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+
+Variable: justin_drunk = []
+  📁 File: x-prologue.rpy
+  📍 Line: 3355
+  🔧 Type: dollar
+  💬 Full: $ justin_drunk = []
+
+Variable: emma_drunk = []
+  📁 File: x-prologue.rpy
+  📍 Line: 3356
+  🔧 Type: dollar
+  💬 Full: $ emma_drunk = []
+
+Variable: poss_1 = Journal("poss_1", branch="poss")
+  📁 File: x-prologue.rpy
+  📍 Line: 3513
+  🔧 Type: dollar
+  💬 Full: $ poss_1 = Journal("poss_1", branch="poss")
+
+Variable: poss_quests = [poss_1]
+  📁 File: x-prologue.rpy
+  📍 Line: 3514
+  🔧 Type: dollar
+  💬 Full: $ poss_quests = [poss_1]
+
+Variable: iface = False
+  📁 File: x-prologue.rpy
+  📍 Line: 3679
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 3710
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: iface = False
+  📁 File: x-prologue.rpy
+  📍 Line: 4376
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: iface = True
+  📁 File: x-prologue.rpy
+  📍 Line: 4454
+  🔧 Type: dollar
+  💬 Full: $ iface = True
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 101
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 245
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 273
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 302
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 365
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 431
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 481
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 505
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 512
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 519
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 527
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 555
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: rand = rdice1(2)
+  📁 File: x-s_events.rpy
+  📍 Line: 566
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(2)
+
+Variable: rand = rdice1(4)
+  📁 File: x-s_events.rpy
+  📍 Line: 609
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(4)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 619
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 793
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 823
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+
+Variable: playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 956
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 966
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: rand = rdice1(2)
+  📁 File: x-s_events.rpy
+  📍 Line: 1098
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(2)
+
+Variable: temp = get_local("s_desire") + " " + str(9 - fcs.desire)
+  📁 File: x-s_events.rpy
+  📍 Line: 1254
+  🔧 Type: dollar
+  💬 Full: $ temp = get_local("s_desire") + " " + str(9 - fcs.desire)
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 1624
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 1648
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 1670
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 1739
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 1893
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 2083
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: sleep = True
+  📁 File: x-s_events.rpy
+  📍 Line: 2126
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 2418
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+
+Variable: rand = rdice1(4)
+  📁 File: x-s_events.rpy
+  📍 Line: 2426
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(4)
+
+Variable: playlist = ["music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 2593
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+
+Variable: emma_cum = False
+  📁 File: x-s_events.rpy
+  📍 Line: 2605
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = False
+
+Variable: emma_cum = False
+  📁 File: x-s_events.rpy
+  📍 Line: 2611
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = False
+
+Variable: rand = renpy.random.randint(1, 2)
+  📁 File: x-s_events.rpy
+  📍 Line: 2970
+  🔧 Type: dollar
+  💬 Full: $ rand = renpy.random.randint(1, 2)
+
+Variable: rand = renpy.random.randint(1,3)
+  📁 File: x-s_events.rpy
+  📍 Line: 2997
+  🔧 Type: dollar
+  💬 Full: $ rand =  renpy.random.randint(1,3)
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 3099
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3428
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3519
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3614
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3672
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 3747
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3818
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3879
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 3946
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4024
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4119
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4314
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4468
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 4485
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 4547
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4608
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: rand = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 4624
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 4747
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4923
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4951
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 4983
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: emma_cum = True
+  📁 File: x-s_events.rpy
+  📍 Line: 5021
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = True
+
+Variable: playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+  📁 File: x-s_events.rpy
+  📍 Line: 5055
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+
+Variable: rand = rdice1(2)
+  📁 File: x-s_events.rpy
+  📍 Line: 5109
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(2)
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 5343
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: kaian = NPC_character(name='kaian', intrigue=17, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=19, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+  📁 File: x-s_events.rpy
+  📍 Line: 5771
+  🔧 Type: dollar
+  💬 Full: $ kaian = NPC_character(name='kaian', intrigue=17, love=0, fidelity=0, s_power=0, s_count_max=0, desire=0, s_approval=0, corruption=19, cuckold=0, free_relations=5, ill=0, viagra=0, love_fam=0, schedule={})
+
+Variable: rand = rdice1(3)
+  📁 File: x-s_events.rpy
+  📍 Line: 5817
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: kai_massage_points = 0
+  📁 File: x-s_events.rpy
+  📍 Line: 5979
+  🔧 Type: dollar
+  💬 Full: $ kai_massage_points = 0
+
+Variable: kai_massage_art_level = 1
+  📁 File: x-s_events.rpy
+  📍 Line: 5980
+  🔧 Type: dollar
+  💬 Full: $ kai_massage_art_level = 1
+
+Variable: kai_compliment_used = False
+  📁 File: x-s_events.rpy
+  📍 Line: 5981
+  🔧 Type: dollar
+  💬 Full: $ kai_compliment_used = False
+
+Variable: kai_ask_about_used = False
+  📁 File: x-s_events.rpy
+  📍 Line: 5982
+  🔧 Type: dollar
+  💬 Full: $ kai_ask_about_used = False
+
+Variable: kai_tell_about_used = False
+  📁 File: x-s_events.rpy
+  📍 Line: 5983
+  🔧 Type: dollar
+  💬 Full: $ kai_tell_about_used = False
+
+Variable: kai_be_bolder_used = False
+  📁 File: x-s_events.rpy
+  📍 Line: 5984
+  🔧 Type: dollar
+  💬 Full: $ kai_be_bolder_used = False
+
+Variable: kai_compliment_used = True
+  📁 File: x-s_events.rpy
+  📍 Line: 6071
+  🔧 Type: dollar
+  💬 Full: $ kai_compliment_used = True
+
+Variable: kai_ask_about_used = True
+  📁 File: x-s_events.rpy
+  📍 Line: 6074
+  🔧 Type: dollar
+  💬 Full: $ kai_ask_about_used = True
+
+Variable: kai_tell_about_used = True
+  📁 File: x-s_events.rpy
+  📍 Line: 6077
+  🔧 Type: dollar
+  💬 Full: $ kai_tell_about_used = True
+
+Variable: kai_be_bolder_used = True
+  📁 File: x-s_events.rpy
+  📍 Line: 6080
+  🔧 Type: dollar
+  💬 Full: $ kai_be_bolder_used = True
+
+Variable: kai_massage_art_level = 2
+  📁 File: x-s_events.rpy
+  📍 Line: 6192
+  🔧 Type: dollar
+  💬 Full: $ kai_massage_art_level = 2
+
+Variable: kai_massage_art_level = 3
+  📁 File: x-s_events.rpy
+  📍 Line: 6204
+  🔧 Type: dollar
+  💬 Full: $ kai_massage_art_level = 3
+
+Variable: kai_massage_art_level = 4
+  📁 File: x-s_events.rpy
+  📍 Line: 6216
+  🔧 Type: dollar
+  💬 Full: $ kai_massage_art_level = 4
+
+Variable: kai_massage_art_level = 5
+  📁 File: x-s_events.rpy
+  📍 Line: 6236
+  🔧 Type: dollar
+  💬 Full: $ kai_massage_art_level = 5
+
+Variable: poss_6 = Journal("poss_6", branch="")
+  📁 File: x-s_events.rpy
+  📍 Line: 8612
+  🔧 Type: dollar
+  💬 Full: $ poss_6 = Journal("poss_6", branch="")
+
+Variable: random = rdice1(100)
+  📁 File: x-s_events.rpy
+  📍 Line: 8949
+  🔧 Type: dollar
+  💬 Full: $ random = rdice1(100)
+
+Variable: current_time = ctime.get()
+  📁 File: x-sandbox.rpy
+  📍 Line: 10
+  🔧 Type: dollar
+  💬 Full: $ current_time = ctime.get()
+
+Variable: music_status = bool(renpy.music.is_playing(channel='music'))
+  📁 File: x-sandbox.rpy
+  📍 Line: 14
+  🔧 Type: dollar
+  💬 Full: $ music_status = bool(renpy.music.is_playing(channel='music'))
+
+Variable: playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/sad_theme_3.ogg", "music/sad_theme_4.ogg"]
+  📁 File: x-sandbox.rpy
+  📍 Line: 20
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/sad_theme_3.ogg", "music/sad_theme_4.ogg"]
+
+Variable: poss_4 = Journal("poss_4", branch="")
+  📁 File: x-sandbox.rpy
+  📍 Line: 89
+  🔧 Type: dollar
+  💬 Full: $ poss_4 = Journal("poss_4", branch="")
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 268
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 381
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+  📁 File: x-sandbox.rpy
+  📍 Line: 420
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/main_theme4.ogg", "music/main_theme1.ogg", "music/romantic_theme_1.ogg", "music/romantic_theme_2.ogg"]
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 554
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 655
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 775
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 926
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 1030
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: rand = renpy.random.randint(0, 2)
+  📁 File: x-sandbox.rpy
+  📍 Line: 1066
+  🔧 Type: dollar
+  💬 Full: $ rand = renpy.random.randint(0, 2)
+
+Variable: rand = rdice1(100)
+  📁 File: x-sandbox.rpy
+  📍 Line: 1107
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 1266
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 1406
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: fitness_shop_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1420
+  🔧 Type: dollar
+  💬 Full: $ fitness_shop_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1440
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: homegoods_shop_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1467
+  🔧 Type: dollar
+  💬 Full: $ homegoods_shop_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1517
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: collection_shop_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1524
+  🔧 Type: dollar
+  💬 Full: $ collection_shop_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1532
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: food_shop_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1539
+  🔧 Type: dollar
+  💬 Full: $ food_shop_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1547
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: sex_shop_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1555
+  🔧 Type: dollar
+  💬 Full: $ sex_shop_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1605
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: business_clothes_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1640
+  🔧 Type: dollar
+  💬 Full: $ business_clothes_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1666
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: underwear_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1675
+  🔧 Type: dollar
+  💬 Full: $ underwear_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1689
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: roleplay_items = [ShopItem(
+  📁 File: x-sandbox.rpy
+  📍 Line: 1698
+  🔧 Type: dollar
+  💬 Full: $ roleplay_items = [ShopItem(
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1707
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: accessories_items = [
+  📁 File: x-sandbox.rpy
+  📍 Line: 1716
+  🔧 Type: dollar
+  💬 Full: $ accessories_items = [
+
+Variable: money_old = fcs.money
+  📁 File: x-sandbox.rpy
+  📍 Line: 1754
+  🔧 Type: dollar
+  💬 Full: $ money_old = fcs.money
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 1954
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-sandbox.rpy
+  📍 Line: 2029
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: sleep = False
+  📁 File: x-sandbox1.rpy
+  📍 Line: 148
+  🔧 Type: dollar
+  💬 Full: $ sleep = False
+
+Variable: sleep = True
+  📁 File: x-sandbox1.rpy
+  📍 Line: 174
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: rand = rdice1(100)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 180
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(100)
+
+Variable: rand = rdice1(6)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 196
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(6)
+
+Variable: count_check = vdc.get('go_bathroom', 0)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 218
+  🔧 Type: dollar
+  💬 Full: $ count_check = vdc.get('go_bathroom', 0)
+
+Variable: rand = renpy.random.randint(1,2)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 283
+  🔧 Type: dollar
+  💬 Full: $ rand = renpy.random.randint(1,2)
+
+Variable: playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+  📁 File: x-sandbox1.rpy
+  📍 Line: 320
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+
+Variable: actor = tyler
+  📁 File: x-sandbox1.rpy
+  📍 Line: 325
+  🔧 Type: dollar
+  💬 Full: $ actor = tyler
+
+Variable: sex_rounds = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 326
+  🔧 Type: dollar
+  💬 Full: $ sex_rounds = 0
+
+Variable: last_pose = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 327
+  🔧 Type: dollar
+  💬 Full: $ last_pose = 0
+
+Variable: poses = 4
+  📁 File: x-sandbox1.rpy
+  📍 Line: 328
+  🔧 Type: dollar
+  💬 Full: $ poses = 4
+
+Variable: emma_cum = False
+  📁 File: x-sandbox1.rpy
+  📍 Line: 329
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = False
+
+Variable: sex_name = 'sex_system_morning'
+  📁 File: x-sandbox1.rpy
+  📍 Line: 330
+  🔧 Type: dollar
+  💬 Full: $ sex_name = 'sex_system_morning'
+
+Variable: last_pose = s_select(last_pose, poses)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 345
+  🔧 Type: dollar
+  💬 Full: $ last_pose = s_select(last_pose, poses)
+
+Variable: playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+  📁 File: x-sandbox1.rpy
+  📍 Line: 350
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+
+Variable: rand = rdice1(3)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 354
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: actor = tyler
+  📁 File: x-sandbox1.rpy
+  📍 Line: 371
+  🔧 Type: dollar
+  💬 Full: $ actor = tyler
+
+Variable: sex_rounds = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 372
+  🔧 Type: dollar
+  💬 Full: $ sex_rounds = 0
+
+Variable: last_pose = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 373
+  🔧 Type: dollar
+  💬 Full: $ last_pose = 0
+
+Variable: poses = 6
+  📁 File: x-sandbox1.rpy
+  📍 Line: 375
+  🔧 Type: dollar
+  💬 Full: $ poses = 6
+
+Variable: poses = 5
+  📁 File: x-sandbox1.rpy
+  📍 Line: 377
+  🔧 Type: dollar
+  💬 Full: $ poses = 5
+
+Variable: emma_cum = False
+  📁 File: x-sandbox1.rpy
+  📍 Line: 378
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = False
+
+Variable: sex_name = 'sex_system_night'
+  📁 File: x-sandbox1.rpy
+  📍 Line: 379
+  🔧 Type: dollar
+  💬 Full: $ sex_name = 'sex_system_night'
+
+Variable: sleep = True
+  📁 File: x-sandbox1.rpy
+  📍 Line: 380
+  🔧 Type: dollar
+  💬 Full: $ sleep = True
+
+Variable: last_pose = s_select(last_pose, poses)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 392
+  🔧 Type: dollar
+  💬 Full: $ last_pose = s_select(last_pose, poses)
+
+Variable: actor = tyler
+  📁 File: x-sandbox1.rpy
+  📍 Line: 398
+  🔧 Type: dollar
+  💬 Full: $ actor = tyler
+
+Variable: sex_rounds = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 399
+  🔧 Type: dollar
+  💬 Full: $ sex_rounds = 0
+
+Variable: last_pose = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 400
+  🔧 Type: dollar
+  💬 Full: $ last_pose = 0
+
+Variable: poses = 3
+  📁 File: x-sandbox1.rpy
+  📍 Line: 401
+  🔧 Type: dollar
+  💬 Full: $ poses = 3
+
+Variable: emma_cum = False
+  📁 File: x-sandbox1.rpy
+  📍 Line: 402
+  🔧 Type: dollar
+  💬 Full: $ emma_cum = False
+
+Variable: sex_name = 'sex_system_shower'
+  📁 File: x-sandbox1.rpy
+  📍 Line: 403
+  🔧 Type: dollar
+  💬 Full: $ sex_name = 'sex_system_shower'
+
+Variable: playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+  📁 File: x-sandbox1.rpy
+  📍 Line: 407
+  🔧 Type: dollar
+  💬 Full: $ playlist = ["music/romantic_theme_9.ogg", "music/romantic_theme_8.ogg", "music/romantic_theme_7.ogg", "music/romantic_theme_5.ogg", "music/romantic_theme_4.ogg"]
+
+Variable: last_pose = 4
+  📁 File: x-sandbox1.rpy
+  📍 Line: 419
+  🔧 Type: dollar
+  💬 Full: $ last_pose = 4
+
+Variable: last_pose = 4
+  📁 File: x-sandbox1.rpy
+  📍 Line: 422
+  🔧 Type: dollar
+  💬 Full: $ last_pose = 4
+
+Variable: last_pose = s_select(last_pose, poses)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 424
+  🔧 Type: dollar
+  💬 Full: $ last_pose = s_select(last_pose, poses)
+
+Variable: mast_actions = 0
+  📁 File: x-sandbox1.rpy
+  📍 Line: 428
+  🔧 Type: dollar
+  💬 Full: $ mast_actions = 0
+
+Variable: rand = rdice1(3)
+  📁 File: x-sandbox1.rpy
+  📍 Line: 560
+  🔧 Type: dollar
+  💬 Full: $ rand = rdice1(3)
+
+Variable: processed_caption = process_choice_text(i.caption)
+  📁 File: x-screens.rpy
+  📍 Line: 299
+  🔧 Type: dollar
+  💬 Full: $ processed_caption = process_choice_text(i.caption)
+
+Variable: quick_menu_hidden = True
+  📁 File: x-screens.rpy
+  📍 Line: 336
+  🔧 Type: default
+  💬 Full: default quick_menu_hidden = True
+
+Variable: page_name_value = FilePageNameInputValue(pattern=_("{} страница"), auto=_("Автосохранения"), quick=_("Быстрые сохранения"))
+  📁 File: x-screens.rpy
+  📍 Line: 974
+  🔧 Type: default
+  💬 Full: default page_name_value = FilePageNameInputValue(pattern=_("{} страница"), auto=_("Автосохранения"), quick=_("Быстрые сохранения"))
+
+Variable: slot = i + 1
+  📁 File: x-screens.rpy
+  📍 Line: 1008
+  🔧 Type: dollar
+  💬 Full: $ slot = i + 1
+
+Variable: fn = FileSaveName(slot)
+  📁 File: x-screens.rpy
+  📍 Line: 1024
+  🔧 Type: dollar
+  💬 Full: $ fn = FileSaveName(slot)
+
+Variable: y = fn.split("-")
+  📁 File: x-screens.rpy
+  📍 Line: 1026
+  🔧 Type: dollar
+  💬 Full: $ y = fn.split("-")
+
+Variable: what = renpy.filter_text_tags(h.what, allow=gui.history_allow_tags)
+  📁 File: x-screens.rpy
+  📍 Line: 1379
+  🔧 Type: dollar
+  💬 Full: $ what = renpy.filter_text_tags(h.what, allow=gui.history_allow_tags)
+
+Variable: device = "keyboard"
+  📁 File: x-screens.rpy
+  📍 Line: 1441
+  🔧 Type: default
+  💬 Full: default device = "keyboard"
+
+Variable: quick_menu_hidden = True
+  📁 File: x-screens.rpy
+  📍 Line: 2016
+  🔧 Type: default
+  💬 Full: default quick_menu_hidden = True
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-screens.rpy
+  📍 Line: 2475
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: input_text = ""
+  📁 File: x-screens.rpy
+  📍 Line: 2542
+  🔧 Type: default
+  💬 Full: default input_text = ""
+
+Variable: selected_npc = None
+  📁 File: x-screens.rpy
+  📍 Line: 2604
+  🔧 Type: default
+  💬 Full: default selected_npc = None
+
+Variable: current_page = 1
+  📁 File: x-screens.rpy
+  📍 Line: 2605
+  🔧 Type: default
+  💬 Full: default current_page = 1
+
+Variable: current_npc_list = npcs_list
+  📁 File: x-screens.rpy
+  📍 Line: 2606
+  🔧 Type: default
+  💬 Full: default current_npc_list = npcs_list
+
+Variable: char_name = get_local(selected_npc.name)
+  📁 File: x-screens.rpy
+  📍 Line: 2619
+  🔧 Type: dollar
+  💬 Full: $ char_name = get_local(selected_npc.name)
+
+Variable: value = getattr(selected_npc, param)
+  📁 File: x-screens.rpy
+  📍 Line: 2623
+  🔧 Type: dollar
+  💬 Full: $ value = getattr(selected_npc, param)
+
+Variable: min_val = ""
+  📁 File: x-screens.rpy
+  📍 Line: 2627
+  🔧 Type: dollar
+  💬 Full: $ min_val = ""
+
+Variable: max_val = "20"
+  📁 File: x-screens.rpy
+  📍 Line: 2628
+  🔧 Type: dollar
+  💬 Full: $ max_val = "20"
+
+Variable: param_name = get_local(f"npc_{param}")
+  📁 File: x-screens.rpy
+  📍 Line: 2630
+  🔧 Type: dollar
+  💬 Full: $ param_name = get_local(f"npc_{param}")
+
+Variable: param_name = get_local(f"npc_{param}")
+  📁 File: x-screens.rpy
+  📍 Line: 2652
+  🔧 Type: dollar
+  💬 Full: $ param_name = get_local(f"npc_{param}")
+
+Variable: char_name = get_local(selected_npc.name)
+  📁 File: x-screens.rpy
+  📍 Line: 2666
+  🔧 Type: dollar
+  💬 Full: $ char_name = get_local(selected_npc.name)
+
+Variable: value = getattr(selected_npc, param)
+  📁 File: x-screens.rpy
+  📍 Line: 2670
+  🔧 Type: dollar
+  💬 Full: $ value = getattr(selected_npc, param)
+
+Variable: min_val = ""
+  📁 File: x-screens.rpy
+  📍 Line: 2674
+  🔧 Type: dollar
+  💬 Full: $ min_val = ""
+
+Variable: max_val = "20"
+  📁 File: x-screens.rpy
+  📍 Line: 2675
+  🔧 Type: dollar
+  💬 Full: $ max_val = "20"
+
+Variable: param_name = get_local(f"npc_{param}")
+  📁 File: x-screens.rpy
+  📍 Line: 2677
+  🔧 Type: dollar
+  💬 Full: $ param_name = get_local(f"npc_{param}")
+
+Variable: param_name = get_local(f"npc_{param}")
+  📁 File: x-screens.rpy
+  📍 Line: 2699
+  🔧 Type: dollar
+  💬 Full: $ param_name = get_local(f"npc_{param}")
+
+Variable: npc = current_npc_list[i]
+  📁 File: x-screens.rpy
+  📍 Line: 2782
+  🔧 Type: dollar
+  💬 Full: $ npc = current_npc_list[i]
+
+Variable: npc = current_npc_list[i]
+  📁 File: x-screens.rpy
+  📍 Line: 2806
+  🔧 Type: dollar
+  💬 Full: $ npc = current_npc_list[i]
+
+Variable: selected_npc = None
+  📁 File: x-screens.rpy
+  📍 Line: 2828
+  🔧 Type: default
+  💬 Full: default selected_npc = None
+
+Variable: current_npc_list = npcs_list
+  📁 File: x-screens.rpy
+  📍 Line: 2829
+  🔧 Type: default
+  💬 Full: default current_npc_list = npcs_list
+
+Variable: char_name = get_local(selected_npc.name)
+  📁 File: x-screens.rpy
+  📍 Line: 2842
+  🔧 Type: dollar
+  💬 Full: $ char_name = get_local(selected_npc.name)
+
+Variable: value = getattr(selected_npc, param)
+  📁 File: x-screens.rpy
+  📍 Line: 2846
+  🔧 Type: dollar
+  💬 Full: $ value = getattr(selected_npc, param)
+
+Variable: min_val = ""
+  📁 File: x-screens.rpy
+  📍 Line: 2850
+  🔧 Type: dollar
+  💬 Full: $ min_val = ""
+
+Variable: max_val = "20"
+  📁 File: x-screens.rpy
+  📍 Line: 2851
+  🔧 Type: dollar
+  💬 Full: $ max_val = "20"
+
+Variable: param_name = get_local(f"npc_{param}")
+  📁 File: x-screens.rpy
+  📍 Line: 2853
+  🔧 Type: dollar
+  💬 Full: $ param_name = get_local(f"npc_{param}")
+
+Variable: char_name = get_local(selected_npc.name)
+  📁 File: x-screens.rpy
+  📍 Line: 2883
+  🔧 Type: dollar
+  💬 Full: $ char_name = get_local(selected_npc.name)
+
+Variable: value = getattr(selected_npc, param)
+  📁 File: x-screens.rpy
+  📍 Line: 2887
+  🔧 Type: dollar
+  💬 Full: $ value = getattr(selected_npc, param)
+
+Variable: param_name = get_local(f"npc_{param}")
+  📁 File: x-screens.rpy
+  📍 Line: 2891
+  🔧 Type: dollar
+  💬 Full: $ param_name = get_local(f"npc_{param}")
+
+Variable: npc = current_npc_list[i]
+  📁 File: x-screens.rpy
+  📍 Line: 2925
+  🔧 Type: dollar
+  💬 Full: $ npc = current_npc_list[i]
+
+Variable: npc = current_npc_list[i]
+  📁 File: x-screens.rpy
+  📍 Line: 2949
+  🔧 Type: dollar
+  💬 Full: $ npc = current_npc_list[i]
+
+Variable: dice_input_value = ""
+  📁 File: x-screens.rpy
+  📍 Line: 3055
+  🔧 Type: default
+  💬 Full: default dice_input_value = ""
+
+Variable: entering_value = False
+  📁 File: x-screens.rpy
+  📍 Line: 3056
+  🔧 Type: default
+  💬 Full: default entering_value = False
+
+Variable: showing_fantasy = False
+  📁 File: x-screens.rpy
+  📍 Line: 3141
+  🔧 Type: default
+  💬 Full: default showing_fantasy = False
+
+Variable: categories_expanded = {"main": True, "character": True, "quest": True, "work": True}
+  📁 File: x-screens.rpy
+  📍 Line: 3312
+  🔧 Type: default
+  💬 Full: default categories_expanded = {"main": True, "character": True, "quest": True, "work": True}
+
+Variable: stage_text = get_quests_local(quest.quest_id, quest.stage)
+  📁 File: x-screens.rpy
+  📍 Line: 3391
+  🔧 Type: dollar
+  💬 Full: $ stage_text = get_quests_local(quest.quest_id, quest.stage)
+
+Variable: stage_text = get_quests_local(quest.quest_id, stage)
+  📁 File: x-screens.rpy
+  📍 Line: 3450
+  🔧 Type: dollar
+  💬 Full: $ stage_text = get_quests_local(quest.quest_id, stage)
+
+Variable: stage_text = get_quests_local(quest.quest_id, stage)
+  📁 File: x-screens.rpy
+  📍 Line: 3511
+  🔧 Type: dollar
+  💬 Full: $ stage_text = get_quests_local(quest.quest_id, stage)
+
+Variable: stage_text = get_quests_local(quest.quest_id, stage)
+  📁 File: x-screens.rpy
+  📍 Line: 3572
+  🔧 Type: dollar
+  💬 Full: $ stage_text = get_quests_local(quest.quest_id, stage)
+
+Variable: local_title = get_local(title)
+  📁 File: x-screens.rpy
+  📍 Line: 4129
+  🔧 Type: default
+  💬 Full: default local_title = get_local(title)
+
+Variable: note = Character(None, what_color="#9efefe", what_drop_shadow=[ (1.0, 1.0)])
+  📁 File: x-script.rpy
+  📍 Line: 4
+  🔧 Type: define
+  💬 Full: define note = Character(None, what_color="#9efefe", what_drop_shadow=[ (1.0, 1.0)])
+
+Variable: ty = Character (_('Тайлер'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 5
+  🔧 Type: define
+  💬 Full: define ty = Character (_('Тайлер'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: em = Character (_('Эмма'), color="#fb8cff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 6
+  🔧 Type: define
+  💬 Full: define em = Character (_('Эмма'), color="#fb8cff", who_drop_shadow=[ (.5, .5)])
+
+Variable: cl = Character (_('Клиент'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 7
+  🔧 Type: define
+  💬 Full: define cl = Character (_('Клиент'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: ji = Character (_('Джилл'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 8
+  🔧 Type: define
+  💬 Full: define ji = Character (_('Джилл'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: bari = Character (_('Бариста'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 9
+  🔧 Type: define
+  💬 Full: define bari = Character (_('Бариста'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: adm = Character (_('Администратор'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 10
+  🔧 Type: define
+  💬 Full: define adm = Character (_('Администратор'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: seller = Character (_('Продавец'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 11
+  🔧 Type: define
+  💬 Full: define seller = Character (_('Продавец'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: seller1 = Character (_('Продавщица'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 12
+  🔧 Type: define
+  💬 Full: define seller1 = Character (_('Продавщица'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: she = Character (_('Шелли'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 13
+  🔧 Type: define
+  💬 Full: define she = Character (_('Шелли'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: ju = Character (_('Джастин'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 14
+  🔧 Type: define
+  💬 Full: define ju = Character (_('Джастин'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: nat = Character (_('Натан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 15
+  🔧 Type: define
+  💬 Full: define nat = Character (_('Натан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: sec = Character (_('Секретарша'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 16
+  🔧 Type: define
+  💬 Full: define sec = Character (_('Секретарша'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: so = Character (_('Софи'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 17
+  🔧 Type: define
+  💬 Full: define so = Character (_('Софи'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: boss = Character (_('Стивенс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 18
+  🔧 Type: define
+  💬 Full: define boss = Character (_('Стивенс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: men = Character (_('Мужчина'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 19
+  🔧 Type: define
+  💬 Full: define men = Character (_('Мужчина'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: mag = Character (_('Мэгги'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 20
+  🔧 Type: define
+  💬 Full: define mag = Character (_('Мэгги'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: dy = Character (_('Дилан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 21
+  🔧 Type: define
+  💬 Full: define dy = Character (_('Дилан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: sim = Character (_('Саймон'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 22
+  🔧 Type: define
+  💬 Full: define sim = Character (_('Саймон'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: con = Character (_('Ведущая'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 23
+  🔧 Type: define
+  💬 Full: define con = Character (_('Ведущая'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: fr = Character (_('Фрэнк'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 24
+  🔧 Type: define
+  💬 Full: define fr = Character (_('Фрэнк'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: qw = Character (_('Квентин'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 25
+  🔧 Type: define
+  💬 Full: define qw = Character (_('Квентин'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: mike = Character (_('Майк'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 26
+  🔧 Type: define
+  💬 Full: define mike = Character (_('Майк'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: dod = Character (_('Додж'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 27
+  🔧 Type: define
+  💬 Full: define dod = Character (_('Додж'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: rick = Character (_('Ричардс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 28
+  🔧 Type: define
+  💬 Full: define rick = Character (_('Ричардс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: lin = Character (_('Линда Мейс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 29
+  🔧 Type: define
+  💬 Full: define lin = Character (_('Линда Мейс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: mr = Character (_('Мистер Роджерс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 30
+  🔧 Type: define
+  💬 Full: define mr = Character (_('Мистер Роджерс'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: strw = Character (_('Незнакомка'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 31
+  🔧 Type: define
+  💬 Full: define strw = Character (_('Незнакомка'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: saman = Character (_('Саманта'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 32
+  🔧 Type: define
+  💬 Full: define saman = Character (_('Саманта'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: guy1 = Character (_('Первый парень'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 33
+  🔧 Type: define
+  💬 Full: define guy1 = Character (_('Первый парень'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: guy2 = Character (_('Второй парень'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 34
+  🔧 Type: define
+  💬 Full: define guy2 = Character (_('Второй парень'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: both = Character (_('Вместе'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 35
+  🔧 Type: define
+  💬 Full: define both = Character (_('Вместе'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: lil = Character (_('Лилиана'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 36
+  🔧 Type: define
+  💬 Full: define lil = Character (_('Лилиана'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: rec = Character (_('Ректор'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 37
+  🔧 Type: define
+  💬 Full: define rec = Character (_('Ректор'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: jil = Character (_('Джилл'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 38
+  🔧 Type: define
+  💬 Full: define jil = Character (_('Джилл'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: vic = Character (_('Виктор'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 39
+  🔧 Type: define
+  💬 Full: define vic = Character (_('Виктор'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: andr = Character (_('Эндрю'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 40
+  🔧 Type: define
+  💬 Full: define andr = Character (_('Эндрю'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: eth = Character (_('Итан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 41
+  🔧 Type: define
+  💬 Full: define eth = Character (_('Итан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: kate = Character (_('Кэйт'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 42
+  🔧 Type: define
+  💬 Full: define kate = Character (_('Кэйт'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: kai = Character (_('Кайан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 43
+  🔧 Type: define
+  💬 Full: define kai = Character (_('Кайан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: amel = Character (_('Амелия'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 44
+  🔧 Type: define
+  💬 Full: define amel = Character (_('Амелия'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: nbb = Character (_('Соседский парень'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 45
+  🔧 Type: define
+  💬 Full: define nbb = Character (_('Соседский парень'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: kyle = Character (_('Кайл'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 46
+  🔧 Type: define
+  💬 Full: define kyle = Character (_('Кайл'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: owner = Character (_('Хозяин'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 47
+  🔧 Type: define
+  💬 Full: define owner = Character (_('Хозяин'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: wcl = Character (_('Клиентка'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 48
+  🔧 Type: define
+  💬 Full: define wcl = Character (_('Клиентка'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: dam = Character (_('Дамиан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+  📁 File: x-script.rpy
+  📍 Line: 49
+  🔧 Type: define
+  💬 Full: define dam = Character (_('Дамиан'), color="#ffffff", who_drop_shadow=[ (.5, .5)])
+
+Variable: slow_dissolve = Dissolve(1.0, alpha=True)
+  📁 File: x-script.rpy
+  📍 Line: 54
+  🔧 Type: define
+  💬 Full: define slow_dissolve = Dissolve(1.0, alpha=True)
+
+Variable: very_slow_dissolve = Dissolve(2.0, alpha=True)
+  📁 File: x-script.rpy
+  📍 Line: 55
+  🔧 Type: define
+  💬 Full: define very_slow_dissolve = Dissolve(2.0, alpha=True)
+
+Variable: advises = False
+  📁 File: x-script.rpy
+  📍 Line: 367
+  🔧 Type: dollar
+  💬 Full: $ advises = False
+
+Variable: current_version = 0.330
+  📁 File: x-script.rpy
+  📍 Line: 422
+  🔧 Type: dollar
+  💬 Full: $ current_version = 0.330
+
+Variable: for_gallery = False
+  📁 File: x-script.rpy
+  📍 Line: 423
+  🔧 Type: dollar
+  💬 Full: $ for_gallery = False
+
+Variable: advises = False
+  📁 File: x-script.rpy
+  📍 Line: 424
+  🔧 Type: dollar
+  💬 Full: $ advises = False
+
+Variable: sp = StylePreference("dialog_font", "FontSpecialElite")
+  📁 File: x-script.rpy
+  📍 Line: 427
+  🔧 Type: dollar
+  💬 Full: $ sp = StylePreference("dialog_font", "FontSpecialElite")
+
+Variable: sp_cn = StylePreference("dialog_font", "FontChinese")
+  📁 File: x-script.rpy
+  📍 Line: 431
+  🔧 Type: dollar
+  💬 Full: $ sp_cn = StylePreference("dialog_font", "FontChinese")
+
+Variable: advises = False
+  📁 File: x-script.rpy
+  📍 Line: 463
+  🔧 Type: dollar
+  💬 Full: $ advises = False
+
+Variable: prologue = False
+  📁 File: x-script.rpy
+  📍 Line: 468
+  🔧 Type: dollar
+  💬 Full: $ prologue = False
+
+Variable: tooltip = GetTooltip()
+  📁 File: x-script.rpy
+  📍 Line: 498
+  🔧 Type: dollar
+  💬 Full: $ tooltip = GetTooltip()
+
+Variable: difficulty = "easy"
+  📁 File: x-script.rpy
+  📍 Line: 508
+  🔧 Type: dollar
+  💬 Full: $ difficulty = "easy"
+
+Variable: advises = True
+  📁 File: x-script.rpy
+  📍 Line: 515
+  🔧 Type: dollar
+  💬 Full: $ advises = True
+
+Variable: difficulty = "normal"
+  📁 File: x-script.rpy
+  📍 Line: 525
+  🔧 Type: dollar
+  💬 Full: $ difficulty = "normal"
+
+Variable: difficulty = "easy"
+  📁 File: x-script.rpy
+  📍 Line: 535
+  🔧 Type: dollar
+  💬 Full: $ difficulty = "easy"
+
+Variable: code = renpy.input(_("Введите код подписчика:"), default="")
+  📁 File: x-script.rpy
+  📍 Line: 536
+  🔧 Type: dollar
+  💬 Full: $ code = renpy.input(_("Введите код подписчика:"), default="")
+
+Variable: difficulty = "cheat"
+  📁 File: x-script.rpy
+  📍 Line: 545
+  🔧 Type: dollar
+  💬 Full: $ difficulty = "cheat"
+
+Variable: advises = True
+  📁 File: x-script.rpy
+  📍 Line: 546
+  🔧 Type: dollar
+  💬 Full: $ advises = True
+
+Variable: prologue = False
+  📁 File: x-script.rpy
+  📍 Line: 562
+  🔧 Type: dollar
+  💬 Full: $ prologue = False
+
+Variable: iface = False
+  📁 File: x-script.rpy
+  📍 Line: 570
+  🔧 Type: dollar
+  💬 Full: $ iface = False
+
+Variable: is_replay = True
+  📁 File: x-script.rpy
+  📍 Line: 571
+  🔧 Type: dollar
+  💬 Full: $ is_replay = True
+
+Variable: for_gallery = True
+  📁 File: x-script.rpy
+  📍 Line: 572
+  🔧 Type: dollar
+  💬 Full: $ for_gallery = True
+
+Variable: revenues = My_Revenues()
+  📁 File: x-script.rpy
+  📍 Line: 663
+  🔧 Type: default
+  💬 Full: default revenues = My_Revenues()
+
+Variable: input_text = ""
+  📁 File: x-script.rpy
+  📍 Line: 664
+  🔧 Type: default
+  💬 Full: default input_text = ""
+
+Variable: flying_text_queue = FlyingTextQueue()
+  📁 File: x-var.rpy
+  📍 Line: 2113
+  🔧 Type: default
+  💬 Full: default flying_text_queue = FlyingTextQueue()
+
+🔀 MENU CHOICES DAN KONSEKUENSI:
+--------------------------------------------------
+📁 File: x-events.rpy
+📍 Menu Line: 25
+  1. "- Побегу за кофе. (+1 к морали – 1 к интриге)" (Line 26)
+     Konsekuensi:
+       → jump events_day3_12_5_1
+  2. "- Пусть сама бежит, это её забота. (+ 1 к интриге, + 1 к интеллекту)" (Line 28)
+     Konsekuensi:
+       → jump events_day3_12_5_2
+
+📁 File: x-events.rpy
+📍 Menu Line: 272
+  1. "– Помочь Саманте (+ 1 к отношениям)" (Line 273)
+     Konsekuensi:
+       → call events_day3_tyler_2 from _call_events_day3_tyler_2
+  2. "– Остаться с Лилианой (+ 1 к отношениям)" (Line 275)
+     Konsekuensi:
+       → call events_day3_tyler_3 from _call_events_day3_tyler_3
+  3. "- Заняться своими делами" (Line 277)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-events.rpy
+📍 Menu Line: 385
+  1. "- Поправить юбку и придерживать ниже. (+1 Эмма, – 1 Саманта)" (Line 386)
+     Konsekuensi:
+       → jump events_day3_tyler_4
+  2. "- Оставить руки на месте. (–1 Эмма, + 1 Саманта)" (Line 388)
+     Konsekuensi:
+       → jump events_day3_tyler_5
+
+📁 File: x-events.rpy
+📍 Menu Line: 438
+  1. "- Это лишнее. (+1 Эмма, -1 Саманта)" (Line 439)
+     Konsekuensi:
+       → jump events_day3_tyler_7
+  2. "- Если только дружеский. (–1 Эмма + 1 Саманта)" (Line 441)
+     Konsekuensi:
+       → jump events_day3_tyler_8
+
+📁 File: x-events.rpy
+📍 Menu Line: 872
+  1. "Добавиться к Джастину в друзья." (Line 873)
+     Konsekuensi:
+       → $ character_4.data_list.append("friends")
+  2. "Нет, это просто глупо." (Line 876)
+     Konsekuensi:
+       → jump justin_no_add
+
+📁 File: x-events.rpy
+📍 Menu Line: 909
+  1. "Привет, Джастин." (Line 910)
+     Konsekuensi:
+       → jump j1_choice_hello_justin
+  2. "Привет, извини, случайно нажала." (Line 912)
+     Konsekuensi:
+       → jump j1_choice_oops_pressed
+
+📁 File: x-events.rpy
+📍 Menu Line: 939
+  1. "Думала, ты не из тех, кто пользуется соцсетями." (Line 940)
+     Konsekuensi:
+       → jump j1_choice_social_media
+  2. "Ты всегда так быстро реагируешь на новых девушек в ленте? 😉" (Line 942)
+     Konsekuensi:
+       → jump j1_choice_fast_reaction
+
+📁 File: x-events.rpy
+📍 Menu Line: 1260
+  1. "♂️ - Да. (+ отношения Тайлер/Шелли, – 1 Эмма, + 1 к свободным отношениям)" (Line 1261)
+     Konsekuensi:
+       → jump day4_justin_shelley_1
+  2. "♂️ - Уклониться от ответа. (+ 1 Эмма)" (Line 1263)
+     Konsekuensi:
+       → jump day4_justin_shelley_2
+  3. "♂️ - Нет. (Ложь, + 2 Эмма)" (Line 1265)
+     Konsekuensi:
+       → jump day4_justin_shelley_3
+
+📁 File: x-events.rpy
+📍 Menu Line: 1473
+  1. "- Поговорить с Тайлером." (Line 1474)
+     Konsekuensi:
+       → jump day4_justin_shelley_talk_tyler
+
+📁 File: x-events.rpy
+📍 Menu Line: 1505
+  1. "– Закончить разговор." (Line 1515)
+     Konsekuensi:
+       → jump day4_justin_shelley_talk_end2
+  2. "– Закончить разговор." (Line 1525)
+     Konsekuensi:
+       → jump day4_justin_shelley_talk_end2
+
+📁 File: x-events.rpy
+📍 Menu Line: 1806
+  1. "- Закончить разговор." (Line 1813)
+     Konsekuensi:
+       → jump day4_justin_shelley_talk_end
+
+📁 File: x-events.rpy
+📍 Menu Line: 2019
+  1. "– Проводить гостей." (Line 2026)
+     Konsekuensi:
+       → jump day4_justin_shelley_end_scene
+
+📁 File: x-events.rpy
+📍 Menu Line: 2195
+  1. "♂️ Кончить в неё." (Line 2196)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ Кончить на её попку." (Line 2217)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-events.rpy
+📍 Menu Line: 2376
+  1. "– Это кот в мешке. (второго шанса может не быть)" (Line 2377)
+     Konsekuensi:
+       → jump day4_studio2_refuse
+  2. "– Это мой шанс." (Line 2379)
+     Konsekuensi:
+       → jump day4_studio2_accept
+
+📁 File: x-events.rpy
+📍 Menu Line: 2616
+  1. "Удовлетворить его требования. (+1 к развращению, +2 к возбуждению, + 1 эксгибиционизм, - 1 к морали, - 1 Тайлер, + 1 Эндрю)" (Line 2617)
+     Konsekuensi:
+       → jump day4_studio2_gallery_agree
+  2. "Да пошел он (- 1 к развращению, – 3 к возбуждению, + 1 к морали, + 1 Тайлер)" (Line 2619)
+     Konsekuensi:
+       → $ fcs.update('corruption', -1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3013
+  1. "Продолжить." (Line 3014)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "Пропустить день." (Line 3016)
+     Konsekuensi:
+       → $ t_pass()
+
+📁 File: x-events.rpy
+📍 Menu Line: 3054
+  1. "Он участвует. (-2 Тайлер, +1 свободные отношения Тайлер, +2 разращение, -1 мораль)" (Line 3055)
+     Konsekuensi:
+       → $ tyler.update('love', -2)
+  2. "Его нет. (+1 Тайлер, +1 развращение)" (Line 3065)
+     Konsekuensi:
+       → $ tyler.update('love', 1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3079
+  1. "Заняться любовью." (Line 3080)
+     Konsekuensi:
+       → jump day5_lake_sex
+  2. "Провести время с мужем. (-1 Тайлер)" (Line 3082)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3094
+  1. "Заняться любовью." (Line 3095)
+     Konsekuensi:
+       → jump day5_lake_sex
+  2. "Провести время с мужем. (-1 Тайлер)" (Line 3097)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3127
+  1. "Представить Джастина. (+1 Джастин, -1 Тайлер)" (Line 3128)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+  2. "Прогнать эти мысли. (+1 Тайлер)" (Line 3137)
+     Konsekuensi:
+       → $ tyler.update('love', 1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3179
+  1. "♂️ – Просто помолчать." (Line 3186)
+     Konsekuensi:
+       → jump day5_lake_rest_menu_3
+
+📁 File: x-events.rpy
+📍 Menu Line: 3228
+  1. "♀ – Пропустить время." (Line 3239)
+     Konsekuensi:
+       → $ t_pass()
+
+📁 File: x-events.rpy
+📍 Menu Line: 3447
+  1. "Принять цветы (–1 Тайлер)" (Line 3448)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+  2. "Отказаться (+1 Тайлер)" (Line 3451)
+     Konsekuensi:
+       → $ tyler.update('love', 1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3465
+  1. "Провокационный сарказм (Интрига +1, Мораль -1)" (Line 3466)
+     Konsekuensi:
+       → $ fcs.update('intrigue', 1)
+  2. "Грубая импульсивность (Интеллект -1, Мораль -1, Развращение +1)" (Line 3472)
+     Konsekuensi:
+       → $ fcs.update('intelligence', -1)
+  3. "Дипломатичная выдержка (Интеллект +1, Мораль +1, Развращение -1)" (Line 3480)
+     Konsekuensi:
+       → $ fcs.update('intelligence', 1)
+  4. "Тонкий выпад (Интеллект +1, Интрига +1)" (Line 3488)
+     Konsekuensi:
+       → $ fcs.update('intelligence', 1)
+  5. "Фальшивое сочувствие (Интрига +1, Развращение +1, Мораль –1)" (Line 3494)
+     Konsekuensi:
+       → $ fcs.update('intrigue', 1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3525
+  1. "Грубая импульсивность (Интеллект -1, Мораль -1 Развращение +1)" (Line 3526)
+     Konsekuensi:
+       → $ fcs.update('intelligence', -1)
+  2. "Дипломатичная выдержка (Интеллект +1, Мораль +1 Развращение -1)" (Line 3534)
+     Konsekuensi:
+       → $ fcs.update('intelligence', 1)
+  3. "Ирония (Интеллект +1, Интрига +1)" (Line 3542)
+     Konsekuensi:
+       → $ fcs.update('intelligence', 1)
+  4. "Фальшивое сочувствие (Интрига +1, Развращение +1, Мораль –1)" (Line 3548)
+     Konsekuensi:
+       → $ fcs.update('intrigue', 1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3721
+  1. "Правда" (Line 3722)
+     Konsekuensi:
+       → jump day12_bar_question1_truth
+  2. "Действие" (Line 3724)
+     Konsekuensi:
+       → jump day12_bar_question1_dare
+
+📁 File: x-events.rpy
+📍 Menu Line: 3736
+  1. "У окна (+1 эксгибиционизм, +1 возбуждение, +1 Джастин)" (Line 3737)
+     Konsekuensi:
+       → $ fcs.update('exg', 1)
+  2. "В лифте (+1 развращение, +1 возбуждение)" (Line 3744)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 3917
+  1. "Правда" (Line 3918)
+     Konsekuensi:
+       → jump day12_bar_question3_truth
+  2. "Действие" (Line 3920)
+     Konsekuensi:
+       → jump day12_bar_question3_dare
+
+📁 File: x-events.rpy
+📍 Menu Line: 4033
+  1. "- Закончить" (Line 4036)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-events.rpy
+📍 Menu Line: 4298
+  1. "Правда" (Line 4299)
+     Konsekuensi:
+       → jump day12_bar_question8_truth
+  2. "Действие" (Line 4301)
+     Konsekuensi:
+       → jump day12_bar_question8_dare
+
+📁 File: x-events.rpy
+📍 Menu Line: 4422
+  1. "– Примерить. (+1 развращение, +1 Тайлер)" (Line 4423)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+  2. "– Отбросить эти глупости. (–1 Тайлер, +1 мораль)" (Line 4430)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+
+📁 File: x-events.rpy
+📍 Menu Line: 4517
+  1. "Согласиться. (+1 эксгибиционизм, -1 мораль)" (Line 4518)
+     Konsekuensi:
+       → $ fcs.update('exg', 1)
+  2. "Отказаться. (-1 эксгибиционизм, +1 мораль)" (Line 4528)
+     Konsekuensi:
+       → $ fcs.update('exg', -1)
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 107
+  1. "– Да, конечно. (Тайлер -1, Джастин +1)" (Line 108)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+  2. "– Дам шанс мужу. (Тайлер +1)" (Line 112)
+     Konsekuensi:
+       → $ tyler.update('love', 1)
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 247
+  1. "– Разобрать вещи. (+2 часа, Тайлер +1, Мораль +1)" (Line 248)
+     Konsekuensi:
+       → $ vars.append('prologue_sorting')
+  2. "– Отдохнуть. (+2 часа, Мораль -1)" (Line 251)
+     Konsekuensi:
+       → jump prologue_house_rest
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 333
+  1. "– Да ничего особенного не произошло. (Развращение + 1, Возбуждение + 1, Мораль -1, Эксгибиционизм +1)" (Line 336)
+     Konsekuensi:
+       → jump prologue_house_changing_skip
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 393
+  1. "– Предложить ему чай. (Мораль +1.)" (Line 394)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+  2. "– Попрощаться." (Line 397)
+     Konsekuensi:
+       → jump prologue_house_san_leave
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 421
+  1. "– Возмутиться (Развращение – 1, Мораль +1)" (Line 422)
+     Konsekuensi:
+       → jump prologue_house_anrgy
+  2. "– Сделать вид, что не поняла (Развращение + 1, Возбуждение +1, Эксгибиционизм +1, Мораль - 1)" (Line 424)
+     Konsekuensi:
+       → jump prologue_house_noanrgy
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 559
+  1. "- Я ещё не успела его узнать." (Line 560)
+     Konsekuensi:
+       → jump prologue_house_shelley_1
+  2. "- Кажется, милый парень. (Шелли +1)" (Line 562)
+     Konsekuensi:
+       → jump prologue_house_shelley_2
+  3. "- Он красавчик! (+ 1 к развращению, + 1 к интриге)" (Line 564)
+     Konsekuensi:
+       → jump prologue_house_shelley_3
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 703
+  1. "– Снять напряжение (Развращение +1, Мораль - 1, Тайлер -1)" (Line 704)
+     Konsekuensi:
+       → jump prologue_house_mast
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1067
+  1. "- Заблокировать." (Line 1068)
+     Konsekuensi:
+       → jump prologue_day1_sms_block
+  2. "- Оставить." (Line 1070)
+     Konsekuensi:
+       → jump prologue_day1_sms_stay
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1163
+  1. "– Может, снять напряжение… (Развращение +1)" (Line 1164)
+     Konsekuensi:
+       → jump prologue_day2_1
+  2. "– Просто почистить зубы и освежиться. (Возбуждение – 1, Мораль +1)" (Line 1166)
+     Konsekuensi:
+       → $ fcs.update("desire", -1)
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1252
+  1. "– Сварить кофе себе" (Line 1253)
+     Konsekuensi:
+       → jump prologue_day2_breakfast_1
+  2. "– Сварить кофе мужу (Тайлер +1)" (Line 1255)
+     Konsekuensi:
+       → jump prologue_day2_breakfast_2
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1544
+  1. "– Может, тогда выпьешь чаю? (Джастин +1)" (Line 1545)
+     Konsekuensi:
+       → $ justin.update('love', 1)
+  2. "– Воспользуйся нашим душем? (Джастин +2)" (Line 1548)
+     Konsekuensi:
+       → $ justin.update('love', 2)
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1631
+  1. "Может, пойти и посмотреть?" (Line 1632)
+     Konsekuensi:
+       → jump prologue_day2_look
+  2. "Подожду ещё немного." (Line 1634)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1648
+  1. "Заглянуть (+ 1 к развращению + 1 к возбуждению – 1 к морали)" (Line 1649)
+     Konsekuensi:
+       → jump prologue_day2_look2
+  2. "Вернуться" (Line 1651)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1692
+  1. "- Остаться и смотреть дальше (+ 1 к развращению + 1 к возбуждению – 1 к морали)" (Line 1693)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+  2. "- Осторожно уйти (-1 к развращению - 1 к возбуждению + 1 к морали)" (Line 1700)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1752
+  1. "– Быстро в душ! (Развращение +2, Возбуждение +2 Мораль -2)" (Line 1753)
+     Konsekuensi:
+       → $ persistent.gal2 = True
+  2. "– Джастина – в шкаф! (Развращение +1 Возбуждение +1, Мораль -1)" (Line 1758)
+     Konsekuensi:
+       → jump prologue_day2_problem_1
+  3. "– Лучше просто рассказать, как есть (Развращение -1, Возбуждение 0, Мораль -2)" (Line 1760)
+     Konsekuensi:
+       → jump prologue_day2_problem_2
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 1793
+  1. "Двигать членом (Джастин +1, Возбуждение +2, Развращение +1)" (Line 1794)
+     Konsekuensi:
+       → jump prologue_day2_problem_0_0
+  2. "Сдержаться" (Line 1796)
+     Konsekuensi:
+       → jump prologue_day2_problem_0_1
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 2707
+  1. "– Сделать то, что он хочет (+ 1 к развращению, + 1 к возбуждению + 1 к эксбиционизму, – 1 к морали, + 1 к сомнительная репутация)" (Line 2708)
+     Konsekuensi:
+       → jump prologue_day3_skirt_do
+  2. "– Отказаться (Стивенс +1, + 1 к морали)" (Line 2710)
+     Konsekuensi:
+       → $ fcs.update("morality", 1)
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 3297
+  1. "♂️ – Перевести тему" (Line 3298)
+     Konsekuensi:
+       → jump prologue_ep2_1_emma_1
+  2. "♂️ – Промолчать (+ 1 Джастин)" (Line 3300)
+     Konsekuensi:
+       → jump prologue_ep2_1_emma_2
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 3523
+  1. "♂️ – Предложить потанцевать." (Line 3532)
+     Konsekuensi:
+       → jump prologue_ep2_emma_questions_7
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 3788
+  1. "Прекратить подслушивать(Эмма +1)." (Line 3789)
+     Konsekuensi:
+       → $ tyler.update('love', 1)
+  2. "Послушать ещё(Эмма -1)." (Line 3792)
+     Konsekuensi:
+       → jump prologue_ep2_lil
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 3927
+  1. "Я не думал об этом." (Line 3928)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "Ты тоже красивая.(Лилиана +1)" (Line 3931)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "Отвернуться(+1 Эмма)" (Line 3950)
+     Konsekuensi:
+       → $ tyler.update('love', 1)
+  4. "Присмотреться (+1 Лилиана, -1 Эмма)" (Line 3953)
+     Konsekuensi:
+       → jump prologue_ep2_tyler_road_home_look
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 4090
+  1. "♂️ – Это ни к чему (Джастин +1)" (Line 4091)
+     Konsekuensi:
+       → jump prologue_ep2_emma_again1
+  2. "♂️ – Молча ждать (Джастин +1, возбуждение +1)" (Line 4093)
+     Konsekuensi:
+       → $ vars.append(1)
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 4125
+  1. "- Остановить его (+ 5 мораль, – 5 развращение)." (Line 4126)
+     Konsekuensi:
+       → $ fcs.update('morality', 5)
+  2. "- Ещё немного…" (Line 4131)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "Остановить его (+ 1 к морали, – 1 к развращению, – 1 к возбуждению)" (Line 4167)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+  4. "Немедленно остановить его (+ 3 к морали, – 3 к развращению, – 3 к возбуждению)" (Line 4172)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-prologue.rpy
+📍 Menu Line: 4322
+  1. "- Представить Тайлера (+ 1 к морали)" (Line 4331)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 228
+  1. "Загорать в купальнике (+ 1 эксгибиционизм если ниже 10, +1 энергия, +1 загар)" (Line 229)
+     Konsekuensi:
+       → call garden_sun_events0 from _call_garden_sun_events0
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 376
+  1. "– Не стоит" (Line 379)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "– Не стоит" (Line 401)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 496
+  1. "Лечь спать" (Line 526)
+     Konsekuensi:
+       → $ sleep = True
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 737
+  1. "– Прекратить." (Line 738)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "– Продолжить." (Line 740)
+     Konsekuensi:
+       → call bedroom_morning_events_random_0_medium_3_sex from _call_bedroom_morning_events_random_0_medium_3_sex
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 750
+  1. "– Сделать минет." (Line 751)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+  2. "– Пойти в душ." (Line 759)
+     Konsekuensi:
+       → $ fcs.update("desire", 2)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 830
+  1. "- Принять ласки." (Line 831)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "- Отказать мужу." (Line 833)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 924
+  1. "- Принять ласки." (Line 925)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "- Отказать мужу." (Line 927)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1162
+  1. "- Принять ласки." (Line 1163)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "- Отказать мужу." (Line 1165)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1295
+  1. "- Принять ласки." (Line 1296)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "- Отказать мужу." (Line 1298)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1414
+  1. "– Уйти" (Line 1415)
+     Konsekuensi:
+       → return
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1461
+  1. "– Уйти" (Line 1462)
+     Konsekuensi:
+       → return
+  2. "– Мастурбировать" (Line 1491)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1508
+  1. "– Уйти" (Line 1509)
+     Konsekuensi:
+       → return
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1807
+  1. "– Ласкать Эмму." (Line 1808)
+     Konsekuensi:
+       → call bedroom_night_events1_massage_fingering from _call_bedroom_night_events1_massage_fingering
+  2. "– Попросить перевернуться." (Line 1810)
+     Konsekuensi:
+       → call bedroom_night_events1_massage_turn from _call_bedroom_night_events1_massage_turn
+  3. "– Завершить массаж." (Line 1812)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1872
+  1. "- Сделать, как она просит." (Line 1873)
+     Konsekuensi:
+       → jump bedroom_night_events1_massage_fingering1
+  2. "- Помучать." (Line 1875)
+     Konsekuensi:
+       → jump bedroom_night_events1_massage_fingering2
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1905
+  1. "- Сделать, как она просит." (Line 1906)
+     Konsekuensi:
+       → jump bedroom_night_events1_massage_fingering1
+  2. "- Помучать." (Line 1908)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+  3. "- Сделать, как она просит." (Line 1916)
+     Konsekuensi:
+       → jump bedroom_night_events1_massage_fingering1
+  4. "- Помучать." (Line 1918)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 1950
+  1. "- Сделать, как она просит." (Line 1951)
+     Konsekuensi:
+       → jump bedroom_night_events1_massage_fingering1
+  2. "- Помучать." (Line 1953)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2377
+  1. "– Выложить в SultryPix" (Line 2388)
+     Konsekuensi:
+       → $ fcs.update("exg", 1)
+  2. "– Закончить." (Line 2392)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "– Закончить." (Line 2397)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2479
+  1. "- Использовать пальцы" (Line 2480)
+     Konsekuensi:
+       → call take_shower_events_mast1 from _call_take_shower_events_mast1
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2563
+  1. "- Предложить «потереть спинку»" (Line 2564)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+  2. "- Помыться вместе." (Line 2567)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2603
+  1. "- Сделать минет." (Line 2604)
+     Konsekuensi:
+       → $ emma_cum = False
+  2. "- Попросить Куни." (Line 2608)
+     Konsekuensi:
+       → call take_shower_with_husband_events1_cun from _call_take_shower_with_husband_events1_cun
+  3. "- Намекнуть на секс." (Line 2610)
+     Konsekuensi:
+       → $ emma_cum = False
+  4. "- Помыться вместе." (Line 2613)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2631
+  1. "– Продолжить." (Line 2634)
+     Konsekuensi:
+       → call take_shower_with_husband_events1_blow2 from _call_take_shower_with_husband_events1_blow2
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2651
+  1. "- Мимо" (Line 2652)
+     Konsekuensi:
+       → jump take_shower_with_husband_events1_blow2_miss
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2791
+  1. "- Сплюнуть" (Line 2792)
+     Konsekuensi:
+       → call take_shower_with_husband_events1_blow2_mouth1 from _call_take_shower_with_husband_events1_blow2_mouth1
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 2927
+  1. "– Посмотреть телешоу" (Line 2928)
+     Konsekuensi:
+       → $ fcs.update("desire", -1)
+  2. "– Посмотреть мелодраму" (Line 2930)
+     Konsekuensi:
+       → $ fcs.update("energy", 1)
+  3. "– Посмотреть эротику" (Line 2932)
+     Konsekuensi:
+       → call tv_events_erotic from _call_tv_events_erotic
+  4. "– Вернуться" (Line 2935)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 3082
+  1. "– Закончить" (Line 3095)
+     Konsekuensi:
+       → return
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 3261
+  1. "- Мимо" (Line 3262)
+     Konsekuensi:
+       → jump kitchen_blow_events1
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 3342
+  1. "- Сплюнуть" (Line 3343)
+     Konsekuensi:
+       → scene kitchen_23 with Dissolve(1.0, alpha=True)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 3392
+  1. "- Ласкать клитор" (Line 3393)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+  2. "- Сосредоточится на ощущениях" (Line 3397)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 3473
+  1. "Шлепнуть по заду нежно" (Line 3474)
+     Konsekuensi:
+       → $ fcs.update("desire", 1)
+  2. "Шлепнуть по заду жестко" (Line 3483)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "Продолжать" (Line 3501)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 3566
+  1. "Придушить нежно" (Line 3567)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "Придушить жестко" (Line 3575)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "Продолжать" (Line 3594)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 4655
+  1. "– Остановить мужа" (Line 4656)
+     Konsekuensi:
+       → jump sex_system_shower_anal_no
+  2. "– Остановить мужа" (Line 4671)
+     Konsekuensi:
+       → jump sex_system_shower_anal_no
+  3. "– Согласиться на анальный секс" (Line 4673)
+     Konsekuensi:
+       → jump sex_system_shower_anal_1
+  4. "– Остановить мужа" (Line 4687)
+     Konsekuensi:
+       → jump sex_system_shower_anal_no
+  5. "– Согласиться на анальный секс" (Line 4689)
+     Konsekuensi:
+       → jump sex_system_shower_anal_1
+  6. "– Остановить мужа" (Line 4701)
+     Konsekuensi:
+       → jump sex_system_shower_anal_no
+  7. "– Согласиться на анальный секс" (Line 4703)
+     Konsekuensi:
+       → jump sex_system_shower_anal_1
+  8. "– Остановить мужа" (Line 4716)
+     Konsekuensi:
+       → jump sex_system_shower_anal_no
+  9. "– Согласиться на анальный секс" (Line 4718)
+     Konsekuensi:
+       → jump sex_system_shower_anal_1
+  10. "– Остановить мужа" (Line 4731)
+     Konsekuensi:
+       → jump sex_system_shower_anal_no
+  11. "– Согласиться на анальный секс" (Line 4733)
+     Konsekuensi:
+       → jump sex_system_shower_anal_1
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5063
+  1. "Представить Тайлера" (Line 5064)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "– Ласкать клитор" (Line 5076)
+     Konsekuensi:
+       → call bedroom_mast_events_clit from _call_bedroom_mast_events_clit
+  3. "– Засунуть пальчик во влагалище" (Line 5078)
+     Konsekuensi:
+       → call bedroom_mast_events_fing1 from _call_bedroom_mast_events_fing1
+  4. "– Засунуть два пальца" (Line 5080)
+     Konsekuensi:
+       → call bedroom_mast_events_fing2 from _call_bedroom_mast_events_fing2
+  5. "– Использовать игрушку" (Line 5084)
+     Konsekuensi:
+       → jump bedroom_mast_events
+       → call bedroom_mast_events_toy1 from _call_bedroom_mast_events_toy1
+  6. "Возврат" (Line 5086)
+     Konsekuensi:
+       → jump bedroom_mast_events
+  7. "Небольшой вибратор" (Line 5088)
+     Konsekuensi:
+       → call bedroom_mast_events_toy1 from _call_bedroom_mast_events_toy1
+  8. "– Закончить" (Line 5090)
+     Konsekuensi:
+       → $ fcs.update("desire", 2)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5164
+  1. "– Сосредоточится на ощущениях" (Line 5175)
+     Konsekuensi:
+       → call bedroom_mast_events_fing2_feel from _call_bedroom_mast_events_fing2_feel
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5225
+  1. "– Сосредоточится на ощущениях" (Line 5236)
+     Konsekuensi:
+       → call bedroom_mast_events_fing2_feel from _call_bedroom_mast_events_fing2_feel_1
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5258
+  1. "В киску" (Line 5259)
+     Konsekuensi:
+       → scene bedroom_48 with Dissolve(1.25, alpha=True)
+  2. "– Ласкать клитор" (Line 5280)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "– Сосредоточится на ощущениях" (Line 5283)
+     Konsekuensi:
+       → return
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5313
+  1. "- Позвать Джилл." (Line 5314)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "- Идти одной." (Line 5331)
+     Konsekuensi:
+       → scene cafe_1a with Dissolve(1.0, alpha=True)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5434
+  1. "Поехать домой одному." (Line 5441)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "Поехать домой одному." (Line 5451)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "Подвезти Саманту. (+ 1 Саманта)" (Line 5455)
+     Konsekuensi:
+       → jump tyler_after_work_conditions_sam
+  4. "Поехать домой одному." (Line 5459)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5621
+  1. "- Подслушать. (Эмма -1)" (Line 5622)
+     Konsekuensi:
+       → jump tyler_after_work_1_2_1
+  2. "- Подождать в стороне." (Line 5624)
+     Konsekuensi:
+       → jump tyler_after_work_1_2_2
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5706
+  1. "- Не стоит гнаться за чужими ожиданиями." (Line 5707)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "- Ты уже важна для нас… (Лилиана +1)" (Line 5710)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "Я не думаю, что это хорошая идея." (Line 5723)
+     Konsekuensi:
+       → jump tyler_after_work_1_2_2_1
+  4. "Хорошо, я тебе помогу. (-1 верность)" (Line 5725)
+     Konsekuensi:
+       → jump tyler_after_work_1_2_2_2
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5790
+  1. "- Уйти с пляжа" (Line 5806)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5868
+  1. "Проигнорировать проверки морали и развращения." (Line 5869)
+     Konsekuensi:
+       → $ quest_beach1.stage = 2
+  2. "Оставить проверки." (Line 5872)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5907
+  1. "Сказать (–1 Тайлер, +1 развращение, +1 возбуждение, +1 Кайан)" (Line 5908)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+  2. "Обойдется (+2 мораль, +1 Тайлер, -1 развращение, -2 возбуждение)" (Line 5929)
+     Konsekuensi:
+       → $ fcs.update('morality', 2)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5964
+  1. "♂️ – Попробовать ещё раз" (Line 5965)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Поискать кого–то попроще" (Line 5973)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 5996
+  1. "♂️ – Использовать красноречие." (Line 5997)
+     Konsekuensi:
+       → jump town_beach_events_kai_eloquence
+  2. "♂️ – Быть смелее." (Line 5999)
+     Konsekuensi:
+       → jump town_beach_events_kai_be_bold
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6084
+  1. "♂️ – Ты такая красотка..." (Line 6085)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Ты часто отдыхаешь на пляже?" (Line 6089)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6098
+  1. "♂️ – Пляж умеет расслаблять" (Line 6099)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Ты соблазнительная" (Line 6114)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6121
+  1. "♂️ – Чем ты увлекаешься, Эмма?" (Line 6122)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Веришь ли ты в любовь с первого взгляда?" (Line 6133)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6142
+  1. "♂️ – Как любишь проводить свободное время?" (Line 6143)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Любимое воспоминание из детства?" (Line 6151)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6160
+  1. "♂️ – Участвовал в марафоне..." (Line 6161)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Картина, что изменила всё." (Line 6167)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6322
+  1. "Отстранится. (+1 мораль)" (Line 6323)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+  2. "Не поднимать скандал (+1 развращенность)" (Line 6326)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6375
+  1. "- Отказаться." (Line 6380)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6558
+  1. "Шутливый флирт (+1 Саманта/Тайлер)" (Line 6559)
+     Konsekuensi:
+       → $ samantha.update('love_fam', 1)
+  2. "Серьезно" (Line 6569)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6680
+  1. "♀ - Придвинуться ближе." (Line 6681)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ – Взглянуть на неё украдкой. (–1 Эмма)" (Line 6691)
+     Konsekuensi:
+       → $ tyler.update('love', -1)
+  3. "♂️ – Сосредоточиться на экране." (Line 6699)
+     → Tidak ada konsekuensi variable ditemukan
+  4. "♀ - Ничего не делать." (Line 6706)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6830
+  1. "♂️ - Нежные прикосновения. (+1 Лилиана/Тайлер, -2 Эмма)" (Line 6831)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "♂️ - Поглаживание волос. (+1 Лилиана/Тайлер, -1 Эмма)" (Line 6844)
+     → Tidak ada konsekuensi variable ditemukan
+  3. "♂️ - Ничего не делать. (-1 Лилиана/Тайлер)" (Line 6858)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 6930
+  1. "♂️ - Продолжить. (+ 1 возбуждение Лилианы, -1 Эмма)" (Line 6935)
+     Konsekuensi:
+       → $ liliana.update("desire", 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7106
+  1. "Влепить пощёчину (+1 мораль, –1 развращенность)" (Line 7107)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+  2. "Не поднимать скандал (-1 мораль)" (Line 7112)
+     Konsekuensi:
+       → $ fcs.update('morality', -1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7237
+  1. "♂️ – Зайти с козырей." (Line 7238)
+     Konsekuensi:
+       → jump work_events_meeting_8_1
+  2. "♂️ – Поразить осведомлённостью. (+1 Виктор)" (Line 7240)
+     Konsekuensi:
+       → $ victor.update('love', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7309
+  1. "♂️ - Ответить прямо (-1 Виктор)" (Line 7310)
+     Konsekuensi:
+       → $ victor.update('love', -1)
+  2. "♂️ - Хитрить (+1 Виктор)" (Line 7317)
+     Konsekuensi:
+       → $ victor.update('love', 1)
+  3. "Взять деньги (+1 развращенность, +1 интеллект, +1 Виктор)" (Line 7382)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+  4. "Не брать деньги (+1 мораль, -1 интеллект, -1 Виктор)" (Line 7394)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7539
+  1. "Взять деньги (+1 развращенность, +1 интеллект, +1 к подчинению, -1 мораль)" (Line 7540)
+     Konsekuensi:
+       → $ fcs.update("submissive", 1)
+  2. "Не брать деньги (+1 мораль, -1 интеллект)" (Line 7555)
+     Konsekuensi:
+       → $ fcs.update("morality", 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7733
+  1. "♀ – Лучше не рисковать" (Line 7739)
+     Konsekuensi:
+       → jump tyler_lil_3_safe_choice
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7771
+  1. "♂️ – Погладить её, чтобы успокоить. (+1 Лилиана/Тайлер)" (Line 7772)
+     Konsekuensi:
+       → jump tyler_lil_3_comfort
+  2. "♂️ – Ничего не делать." (Line 7775)
+     Konsekuensi:
+       → jump tyler_lil_3_no_action
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7792
+  1. "♀ – Немного передвинуть ногу. (+1 Лилиана/Тайлер)" (Line 7793)
+     Konsekuensi:
+       → $ liliana.update("love_fam", 1)
+  2. "♀ – Лежать неподвижно." (Line 7802)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 7926
+  1. "– Окликнуть его." (Line 7927)
+     Konsekuensi:
+       → jump quest_watcher_1b
+  2. "– Ничего не делать." (Line 7929)
+     Konsekuensi:
+       → return
+  3. "– Пойти и посмотреть." (Line 7933)
+     → Tidak ada konsekuensi variable ditemukan
+  4. "– Ничего не делать." (Line 7935)
+     Konsekuensi:
+       → return
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8076
+  1. "♀ – Позвать его подойти ближе. (+1 Эксбибиционизм, +1 Развращение, -1 Мораль)" (Line 8077)
+     Konsekuensi:
+       → $ fcs.update('exg', 1)
+  2. "♀ – Сдержать его порыв. (+2 Мораль, –2 Развращение)" (Line 8085)
+     Konsekuensi:
+       → $ fcs.update('morality', 2)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8139
+  1. "♀ – Поиграть с ним. (+1 Эксбибиционизм, + 1 Развращение, -1 Мораль)" (Line 8140)
+     Konsekuensi:
+       → $ fcs.update('exg', 1)
+  2. "♀ – Прекратить это безумие. (+1 Мораль, –1 Развращение)" (Line 8149)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8272
+  1. "/Код подписчика/ Игнорировать проверки? Этот вопрос будет задан лишь 1 раз." (Line 8273)
+     Konsekuensi:
+       → $ poss_5.data_list.append('cheat_applied')
+  2. "Нет." (Line 8276)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8349
+  1. "Уровень 1 – Классическая фотомодель" (Line 8350)
+     Konsekuensi:
+       → jump town_photo_session_menu1
+  2. "Уровень 1 – Классическая фотомодель" (Line 8356)
+     Konsekuensi:
+       → jump town_photo_session_menu1
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8494
+  1. "– Да пошёл бы он…" (Line 8495)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "– Ладно, на этот раз соглашусь. (+1 развращение, +1 эксгибиционизм, –1 мораль)" (Line 8502)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8769
+  1. "– Ну, это его дело." (Line 8770)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "– Джил, ты говоришь это так… мечтательно. (+1 Джилл)" (Line 8776)
+     Konsekuensi:
+       → $ jill.update('love', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 8897
+  1. "Отбить ему желание. (+1 мораль, +1 Интеллект)" (Line 8898)
+     Konsekuensi:
+       → $ fcs.update('morality', 1)
+  2. "Он сволочь, но он прав. (+1 развращение, +1 подчинение, –1 мораль, -1 интеллект)" (Line 8909)
+     Konsekuensi:
+       → $ fcs.update('corruption', 1)
+
+📁 File: x-s_events.rpy
+📍 Menu Line: 9092
+  1. "Остаться как есть" (Line 9093)
+     Konsekuensi:
+       → jump town_beach_events_swimsuit
+
+📁 File: x-sandbox.rpy
+📍 Menu Line: 1448
+  1. "Товары для фитнеса" (Line 1449)
+     Konsekuensi:
+       → jump mall_fitness_shop
+  2. "Секс товары" (Line 1453)
+     Konsekuensi:
+       → jump mall_sex_shop
+  3. "Коллекции и достижения" (Line 1455)
+     Konsekuensi:
+       → jump mall_collection
+  4. "Выйти" (Line 1462)
+     Konsekuensi:
+       → jump town_mall1
+
+📁 File: x-sandbox.rpy
+📍 Menu Line: 1615
+  1. "Одежда" (Line 1616)
+     Konsekuensi:
+       → jump mall_clothes_section
+  2. "Аксессуары" (Line 1618)
+     Konsekuensi:
+       → jump mall_accessories_section
+  3. "Выйти" (Line 1620)
+     Konsekuensi:
+       → jump mall_shop
+
+📁 File: x-sandbox.rpy
+📍 Menu Line: 1627
+  1. "Деловая одежда" (Line 1628)
+     Konsekuensi:
+       → jump mall_business_clothes
+  2. "Белье" (Line 1630)
+     Konsekuensi:
+       → jump mall_underwear
+  3. "Для ролевых игр" (Line 1632)
+     Konsekuensi:
+       → jump mall_roleplay_clothes
+  4. "Выйти" (Line 1634)
+     Konsekuensi:
+       → jump mall_clothes
+
+📁 File: x-sandbox.rpy
+📍 Menu Line: 1783
+  1. "Пока ничего" (Line 1790)
+     Konsekuensi:
+       → jump town_mall1
+
+📁 File: x-sandbox1.rpy
+📍 Menu Line: 16
+  1. "Курс по саморазвитию (+1 интеллект, -2 энергии)" (Line 17)
+     Konsekuensi:
+       → call bedroom_read_events1 from _call_bedroom_read_events1
+  2. "Любовный роман (+1 желание, -1 энергия)" (Line 21)
+     Konsekuensi:
+       → call bedroom_read_events2 from _call_bedroom_read_events2
+  3. "Эротический журнал (+1 желание, +1 коррупция)" (Line 25)
+     Konsekuensi:
+       → call bedroom_read_events3 from _call_bedroom_read_events3
+
+📁 File: x-sandbox1.rpy
+📍 Menu Line: 157
+  1. "Привлечь внимание мужа" (Line 158)
+     Konsekuensi:
+       → call bedroom_night_events1 from _call_bedroom_night_events1
+  2. "Лечь спать" (Line 163)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-sandbox1.rpy
+📍 Menu Line: 528
+  1. "Уйти" (Line 534)
+     Konsekuensi:
+       → $ ctime.add(0.5)
+
+📁 File: x-sandbox1.rpy
+📍 Menu Line: 578
+  1. "Уйти" (Line 588)
+     → Tidak ada konsekuensi variable ditemukan
+
+📁 File: x-script.rpy
+📍 Menu Line: 437
+  1. "Я старше 18 лет" (Line 438)
+     → Tidak ada konsekuensi variable ditemukan
+  2. "Выход" (Line 440)
+     Konsekuensi:
+       → $ renpy.quit()
+
+📊 RINGKASAN:
+--------------------------------------------------
+Total Variables: 321
+Money Variables: 10
+Relationship Variables: 0
+Menu Choices: 136

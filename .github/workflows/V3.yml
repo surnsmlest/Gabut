@@ -1,4 +1,4 @@
-name: v3
+name: vkon
 
 on:
   workflow_dispatch:

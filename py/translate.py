@@ -21,7 +21,7 @@ from pathlib import Path
 BATCH_FOLDER = sys.argv[1] if len(sys.argv) > 1 else "batch_kecil"  # Folder containing .rpy files
 BAHASA_ASAL = "en"                  # Source language
 BAHASA_TUJUAN = "id"                # Target language  
-JEDA_TERJEMAH = 0.3                 # Delay between translations (seconds)
+JEDA_TERJEMAH = 0.1                 # Delay between translations (seconds)
 LOG_LEVEL = "ERROR"                 # Options: ALL, ERROR, SUMMARY
 OUTPUT_FOLDER = "output_tl"         # Output folder for translated files
 # ========================================

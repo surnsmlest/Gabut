@@ -8,7 +8,7 @@ import sys
 
 def send_telegram_message(title, message):
     # TOKEN dan CHAT_ID langsung ditulis di sini
-    BOT_TOKEN = "7732517146:AAFxfT074Ma8kzWPWFXZgTR978hCAat-c0U"  # Ganti dengan token bot Anda
+    BOT_TOKEN = "7604219757:AAGhEWN8YdYbWQ5hU3GtaZa-dBzRkWp_FSo"  # Ganti dengan token bot Anda
     CHAT_ID = "7121031492"                       # Ganti dengan chat ID Anda
     
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
